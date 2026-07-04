@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.raw.ipynb
+
+# Data and generated artifacts
+data/*
+!data/README.md
+outputs/
+models/
+checkpoints/
+*.h5
+*.keras
+*.ckpt
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
