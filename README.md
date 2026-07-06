@@ -15,6 +15,7 @@
 | --- | --- | --- | --- |
 | 신경망 모델 훈련 | `notebooks/deep-learning/07-3_neural_network_training.ipynb` | `scripts/deep-learning/07-3_neural_network_training.py` | [Colab](https://colab.research.google.com/drive/1_NKY6AH8dSi-gtJ0VVImct5X7VdRhrMa?usp=sharing) |
 | 합성곱 신경망을 사용한 이미지 분류 | `notebooks/deep-learning/08-2_convolutional_neural_network_image_classification.ipynb` | `scripts/deep-learning/08-2_convolutional_neural_network_image_classification.py` | [Colab](https://colab.research.google.com/drive/1qb1_cyo-QTk8QDj6NjMsj3qU8rz79tCV?usp=sharing) |
+| 합성곱 신경망의 시각화 | `notebooks/deep-learning/08-3_convolutional_neural_network_visualization.ipynb` | `scripts/deep-learning/08-3_convolutional_neural_network_visualization.py` | [Colab](https://colab.research.google.com/drive/1gdcunVMIEHBhjHrBGVWomjK9Ae27MShu?usp=sharing) |
 
 ## Study Log Convention
 
