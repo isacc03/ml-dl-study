@@ -18,6 +18,7 @@
 | 합성곱 신경망의 시각화 | `notebooks/deep-learning/08-3_convolutional_neural_network_visualization.ipynb` | `scripts/deep-learning/08-3_convolutional_neural_network_visualization.py` | [Colab](https://colab.research.google.com/drive/1gdcunVMIEHBhjHrBGVWomjK9Ae27MShu?usp=sharing) |
 | 순환 신경망으로 IMDB 리뷰 분류하기 | `notebooks/deep-learning/09-2_recurrent_neural_network_imdb_review_classification.ipynb` | `scripts/deep-learning/09-2_recurrent_neural_network_imdb_review_classification.py` | [Colab](https://colab.research.google.com/drive/1iC4DuAZt_uzPsPlEeryYU2FnLC6XWOpT?usp=sharing) |
 | LSTM과 GRU 셀 | `notebooks/deep-learning/09-3_lstm_and_gru_cells.ipynb` | `scripts/deep-learning/09-3_lstm_and_gru_cells.py` | [Colab](https://colab.research.google.com/drive/1l4LIgeMkh6IJzcNyaDTJy--5moGutPTS?usp=sharing) |
+| 트랜스포머로 상품 설명 요약하기 | `notebooks/deep-learning/10-2_transformer_product_description_summarization.ipynb` | `scripts/deep-learning/10-2_transformer_product_description_summarization.py` | [Colab](https://colab.research.google.com/drive/1XxQqisL1Zx2QRr_G02tWsajyCAYNkfHQ?usp=drive_link) |
 
 ## Study Log Convention
 
